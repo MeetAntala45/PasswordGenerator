@@ -2,6 +2,12 @@
 
 A secure and responsive **Password Generator** built using **HTML**, **CSS**, and **JavaScript**. This app allows users to generate customizable, strong passwords and check their strength visually.
 
+
+## 🖼️ Demo
+
+Try the live version here: [https://password-genrator-meet-antala.vercel.app/](https://password-genrator-meet-antala.vercel.app/)
+
+
 ## 🚀 Features
 
 - ✅ Real-time password generation
@@ -15,13 +21,6 @@ A secure and responsive **Password Generator** built using **HTML**, **CSS**, an
 - ✅ One-click copy to clipboard
 - ✅ Beautiful UI with responsive design
 
----
-
-## 🖼️ Demo
-
-> Try the live version here: [https://yourusername.github.io/password-generator](https://yourusername.github.io/password-generator)  
-
----
 
 ## 📸 Screenshots
 
