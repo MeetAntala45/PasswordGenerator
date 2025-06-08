@@ -24,5 +24,6 @@ Try the live version here: [https://password-genrator-meet-antala.vercel.app/](h
 
 ## 📸 Screenshots
 
+![Password Generator Preview](./password-generator.png)
 
 
